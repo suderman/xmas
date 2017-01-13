@@ -1,4 +1,4 @@
 xmas
 ====
 
-Christmas Newsletters http://xmas.suderman.io
+Christmas Newsletters https://xmas.suderman.org
